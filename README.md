@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/32169181/README.md)
 # Movies Store
 
-A Django web application for browsing movies, reading and writing reviews, and purchasing movies through a shopping cart. Built with Django 5.0 and Bootstrap 5.
+A Django web application for browsing movies, reading and writing reviews, and purchasing movies through a shopping cart. Built with Django 5.0.
 
 ## Features
 
